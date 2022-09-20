@@ -1,0 +1,52 @@
+body {
+  display: block;
+  margin: 8px;
+}
+html{
+  display: block;
+}
+.center {
+  display: block;
+  text-align: -webkit-center;
+  width: 777px;
+  height: 144px;
+  margin: 0 auto;
+}
+
+.center-bg{
+  background-color:#EEEEEE;
+}
+
+.img{
+  width: 351px;
+  aspect-ratio: auto 351 / 113;
+  height: 113px;
+  
+}
+
+.input{
+  width: 30%;
+}
+.table{
+  border-collapse: separate;
+  text-indent: initial;
+  white-space: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  font-style: normal;
+  color: -internal-quirk-inherit;
+  text-align: start;
+  border-spacing: 2px;
+  font-variant: normal;
+}
+
+
+
+
+
+
+
+
+
+
